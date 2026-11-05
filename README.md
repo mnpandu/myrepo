@@ -1,1 +1,1 @@
-https://c497496e9a3ce0b972.gradio.live/
+https://47eebea9929b9c558d.gradio.live/
